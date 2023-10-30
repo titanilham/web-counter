@@ -11,7 +11,7 @@
 
 ### Preview: 
  ![](https://github.com/titanilham/web-counter/blob/main/Preview.png?raw=true)
-
+<a src="https://653e56e9a84654753cf07b73--gleaming-biscotti-0fabe5.netlify.app/">Link to the site</a>
 
 ----
 
