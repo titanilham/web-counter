@@ -1,5 +1,6 @@
-![](https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=500&size=30&pause=1000&color=F075B7&background=0071FF00&random=false&width=435&lines=Web+counter)
-
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=500&size=30&pause=1000&color=F0B500&background=0071FF00&random=false&width=435&lines=Web+counter" alt="Typing SVG" />
+</div>
 ### Languages:
 
 * JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/120px-JavaScript-logo.png" width="15" height="15"/>
