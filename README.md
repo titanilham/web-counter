@@ -1,6 +1,5 @@
 # Web counter
 
-
 ### Languages:
 
 * JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/120px-JavaScript-logo.png" width="15" height="15"/>
